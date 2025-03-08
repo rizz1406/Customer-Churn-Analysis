@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/fe5dc1cb-75db-4a7b-a87d-0fdb59f1af1b)
 # 📊 Telco Customer Churn Analysis
 
 ## 📌 Overview
