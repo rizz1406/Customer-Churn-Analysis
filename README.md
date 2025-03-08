@@ -72,7 +72,7 @@ plt.show()
 ```
 📊 **Insight**: Helps understand the proportion of customers who churned vs. stayed.
 
-![Churn Distribution](https://via.placeholder.com/600x400?text=Churn+Distribution)
+![image](https://github.com/user-attachments/assets/a8686301-fb13-4614-9ffd-bf8881a68886)
 
 ---
 
@@ -85,7 +85,6 @@ plt.show()
 ```
 📊 **Insight**: Identifies relationships between different variables.
 
-![Heatmap](https://via.placeholder.com/600x400?text=Feature+Correlation)
 
 ---
 
@@ -142,7 +141,7 @@ plt.show()
 ```
 📊 **Insight**: Customers with **month-to-month contracts** have a higher churn rate.
 
-![Contract Type](https://via.placeholder.com/600x400?text=Churn+by+Contract+Type)
+![image](https://github.com/user-attachments/assets/3cc349f6-6e53-4882-aa9b-efe94bcf3ff6)
 
 ### **2️⃣ Monthly Charges vs. Churn**
 ```python
@@ -153,7 +152,7 @@ plt.show()
 ```
 📊 **Insight**: Higher monthly charges correlate with increased churn.
 
-![Monthly Charges](https://via.placeholder.com/600x400?text=Monthly+Charges+vs+Churn)
+![image](https://github.com/user-attachments/assets/77dda908-1304-4d7b-a904-68d9edb191f1)
 
 ---
 
