@@ -30,8 +30,8 @@ The dataset includes:
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/Telco-Customer-Churn.git
-cd Telco-Customer-Churn
+git clone https://github.com/rizz1406/Customer-Churn-Analysis.git
+cd Customer-Churn-Analysis
 ```
 ### **2️⃣ Install Dependencies**
 Ensure you have **Python 3.x** installed, then install required libraries:
