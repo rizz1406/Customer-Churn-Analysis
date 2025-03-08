@@ -56,7 +56,7 @@ Open `Telco Customer Churn.ipynb` and execute all cells.
 ```python
 import pandas as pd
 
-df = pd.read_csv("Customer Churn.csv")
+df = pd.read_csv(r'C:\Users\DELL\Desktop\Python projects for DA\Customer-Churn-analysis-main\Customer-Churn-analysis-main\Customer Churn.csv')
 print(df.info())  # Dataset structure
 print(df.describe())  # Statistical summary
 print(df.isnull().sum())  # Check missing values
